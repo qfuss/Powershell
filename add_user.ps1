@@ -1,3 +1,5 @@
+#Update-Module -Name ExchangeOnlineManagement
+
 $vorname = "Vorname"
 $nachname = "Nachname"
 $ort = "Ort"
