@@ -1,4 +1,4 @@
-$computer = "FS262"
+$computer = "Host"
 
 $filesToCopy= "places.sqlite", "key4.db", "logins.json"
 cls
